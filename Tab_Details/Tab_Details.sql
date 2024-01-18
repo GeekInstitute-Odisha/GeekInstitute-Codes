@@ -1,3 +1,4 @@
+--table structure
 select * from dept;
 /
 create table dept(  
