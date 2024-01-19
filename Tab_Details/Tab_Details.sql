@@ -1,3 +1,4 @@
+--geek institute
 --table structure
 select * from dept;
 /
